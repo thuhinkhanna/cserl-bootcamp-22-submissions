@@ -55,6 +55,9 @@ Note: There are plenty of resources available online for more detailed reading. 
     A. 
     
     - Clone [bootcamp2022](https://github.com/cserl-iitb/bootcamp2022) repo(use `git clone https://github.com/cserl-iitb/bootcamp2022.git` command).
+    <p align="center">
+    <img src="./Picture1.png" width = "1024"/>
+    </p>
 
     B.
 
@@ -70,6 +73,13 @@ Note: There are plenty of resources available online for more detailed reading. 
     
     - Push your solutions onto your repo periodically.
 
+    <p align="center">
+    <img src="./Picture2.png" width = "1024"/>
+    </p>
+    <p align="center">
+    <img src="./Picture3.png" width = "1024"/>
+    </p>
+    
 2. **Do you want to fix a bug?**
 
     - Fork [this](https://github.com/rajagond/git_assignment) repository. This will create a copy of repository on your account. <br>
@@ -124,3 +134,12 @@ Note: There are plenty of resources available online for more detailed reading. 
     - Create a new tag <code>final_submission</code> and push it on your repository.
 
 
+    <p align="center">
+    <img src="./Picture4.png" width = "1024"/>
+    </p>
+    <p align="center">
+    <img src="./Picture5.png" width = "1024"/>
+    </p>
+    <p align="center">
+    <img src="./Picture6.png" width = "1024"/>
+    </p>
