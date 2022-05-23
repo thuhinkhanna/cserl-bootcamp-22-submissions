@@ -39,6 +39,16 @@ Following are some basic Linux commands. To know more about them use: <code> man
 
 1. Find the variant of the <code>ls</code> command (i.e. argument(s) to be used) to list contents of a folder including its hidden files, the variant of <code>cp</code> to copy folder and the command to rename a file.
 
+    <p align="center">
+    <img src="./Picture1.png" width = "1024"/>
+    </p>
+    <p align="center">
+    <img src="./Picture2.png" width = "1024"/>
+    </p>
+    <p align="center">
+    <img src="./Picture3.png" width = "1024"/>
+    </p>
+
 2. In this question, we will understand the hardware configuration of your working machine using the <code>/proc</code> filesystem.
 
     - Run command <code>more /proc/cpuinfo</code> and explain the following terms: <code>processor</code> and <code>cores</code>. Use the command <code>lscpu</code> to verify your definitions.
