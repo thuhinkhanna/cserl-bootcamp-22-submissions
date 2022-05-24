@@ -35,12 +35,24 @@ If you are a complete beginner (no experience in shell scripts), please go throu
 1. Write a shell script ``array.sh`` that displays "man","bear", "pig", "dog", "cat", and "sheep" on the screen with each appearing on a separate line. Try to do this in as few lines as possible. (Hint: Use an array/list and for loop)
     
     Usage: ``./array.sh``
+    
+    <p>
+    <img src="./Picture1.png" width="1024" align="center">
+    </p>
 
 2. Write a shell script ``digitsum.sh`` that find the sum of digit of a number provided as argument.
        
     Usage: ``./digitsum.sh <num>``
     
+    <p>
+    <img src="./Picture2.png" width="1024" align="center">
+    </p>
+    
 3. Write ``dirs.sh`` that makes a directory ``root`` and then makes five subdirectories: ``root/dir1`` through ``root/dir5``. Then, in each subdirectory, the script should make four files, ``file1`` through ``file4``, such that ``file1`` has one line containing the digit ``1``, ``file2`` has two lines, each containing the digit ``2``, ..., and ``file4``
 has four lines, each containing the digit ``4``.
     
     Usage: ``./dirs.sh``
+
+    <p>
+    <img src="./Picture3.png" width="1024" align="center">
+    </p>
