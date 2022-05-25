@@ -52,7 +52,11 @@ console        3 18 0
 # You're done! Exit QEMU with Ctrl+A X
 # Ctrl+A X means 1. First press Ctrl + A (A is just key a, not the alt key), 2. then release the keys, 3. afterwards press X.
 ```
-
+<p>
+<img src="./Picture1.png" width="1024" align="center"/>
+<br>
+<img src="./Picture2.png" width="1024" align="center"/>
+</p>
 Note: If you are getting an error in the installation steps, please visit the [_FAQ_](README.md#faq) section.
 
 ### Windows 10
