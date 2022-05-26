@@ -32,6 +32,9 @@ If you are familiar with compilation and execution of c/cpp programs via termina
     Enter Number: 6
     Factors: 1 2 3 6
     ```
+<p>
+<img src="./Picture1.png" width="1024" align="center"/>
+</p>
 
 2. Write and execute a C/C++ Program (``complex.cpp``/``complex.c``) to add two complex numbers and return the result as a new complex number. This is to be done by creating a structure or class of Complex Number and creating a function ``add`` which takes two complex numbers as arguments and returns the result as a new complex number. Assume you are given two complex numbers (``a1 + i.a2``,  ``b1 + i.b2``) terminal in following order:
     
@@ -40,7 +43,19 @@ If you are familiar with compilation and execution of c/cpp programs via termina
     Enter second complex number: 4 9
     Result: 6 19
     ```
-    
+<p>
+<img src="./Picture2.png" width="1024" align="center"/>
+</p>
+
 3. Consider the files in directory ``make_exercise`` in this assignment folder. 
 - Using the files main.cpp, hello.cpp and factiorial.cpp create a single binary ``main``. Execute the program and check for correctness.
+
+<p>
+<img src="./Picture3.png" width="1024" align="center"/>
+</p>
+
 - Create a Makefile which will create a binary ``main`` (use ``gcc`` compiler) (using the files ``main.cpp``, ``hello.cpp``, ``factorial.cpp`` and ``functions.h``). Note that, you must use makefile variables like compiler (``CC``), flags (``CFLAGS``), dependencies (``DEPS``) in your makefile. 
+
+<p>
+<img src="./Picture4.png" width="1024" align="center"/>
+</p>
