@@ -9,10 +9,14 @@ int main(int argc, char* argv[]) {
 
   cout << *p << endl;
 
-  p = q;
-  cout << *p << endl;
+  // bug : p is made to point to NULL
+
+  //p = q;
+
+  //cout << *p << endl;
 
   p = &b;
+
   cout << *p << endl;
 
   return 0;

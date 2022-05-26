@@ -17,6 +17,20 @@ For both the below exercises, log all the gdb commands you use to debug the prog
 - (gdb) set logging on
 
 1. Compile and run <code>pointers.cpp</code>. A segmentation fault will be observed. Use gdb to step through the program as it runs, and locate line of the program that causes this error and fix the bug.
-
+<p>
+<img src="./Picture1.png" width=1024 align="center" />
+<br>
+<img src="./Picture2.png" width=1024 align="center" />
+<br>
+<img src="./Picture3.png" width=1024 align="center" />
+</p>
 2. Compile and run <code>fibbonaci.cpp</code>. The program will run successfully. This program is meant to print the first <code>n+2</code> terms of the Fibonacci sequence, where <code>n</code> is specified in line 6 of the program. However, the output of the code as given clearly does not match this requirement. A single logical bug in the code is causing this error. Use gdb to step through the program as it runs, locate and fix the bug.
-
+<p>
+<img src="./Picture4.png" width=1024 align="center" />
+<br>
+<img src="./Picture5.png" width=1024 align="center" />
+<br>
+<img src="./Picture6.png" width=1024 align="center" />
+<br>
+<img src="./Picture7.png" width=1024 align="center" />
+</p>
